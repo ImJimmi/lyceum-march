@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lyceum-march/static/css/main.0e34f3ca.css",
+    "main.js": "/lyceum-march/static/js/main.7407c1e0.js",
+    "static/js/787.3242bcea.chunk.js": "/lyceum-march/static/js/787.3242bcea.chunk.js",
+    "index.html": "/lyceum-march/index.html",
+    "main.0e34f3ca.css.map": "/lyceum-march/static/css/main.0e34f3ca.css.map",
+    "main.7407c1e0.js.map": "/lyceum-march/static/js/main.7407c1e0.js.map",
+    "787.3242bcea.chunk.js.map": "/lyceum-march/static/js/787.3242bcea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e34f3ca.css",
+    "static/js/main.7407c1e0.js"
+  ]
+}
