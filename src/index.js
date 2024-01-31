@@ -1,3 +1,4 @@
+import { BrowserRouter } from "react-router-dom";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import Slides from "./Slides";
@@ -8,9 +9,11 @@ import "reveal.js";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-    <React.StrictMode>
-        <Slides />
-    </React.StrictMode>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <React.StrictMode>
+            <Slides />
+        </React.StrictMode>
+    </BrowserRouter>
 );
 
 reportWebVitals();
