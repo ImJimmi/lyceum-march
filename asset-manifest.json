@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lyceum-march.ImJimmi.com/static/css/main.0e34f3ca.css",
-    "main.js": "/lyceum-march.ImJimmi.com/static/js/main.5aad30da.js",
-    "static/js/787.3242bcea.chunk.js": "/lyceum-march.ImJimmi.com/static/js/787.3242bcea.chunk.js",
-    "index.html": "/lyceum-march.ImJimmi.com/index.html",
-    "main.0e34f3ca.css.map": "/lyceum-march.ImJimmi.com/static/css/main.0e34f3ca.css.map",
-    "main.5aad30da.js.map": "/lyceum-march.ImJimmi.com/static/js/main.5aad30da.js.map",
-    "787.3242bcea.chunk.js.map": "/lyceum-march.ImJimmi.com/static/js/787.3242bcea.chunk.js.map"
+    "main.css": "/static/css/main.0e34f3ca.css",
+    "main.js": "/static/js/main.e34f795a.js",
+    "static/js/787.3242bcea.chunk.js": "/static/js/787.3242bcea.chunk.js",
+    "index.html": "/index.html",
+    "main.0e34f3ca.css.map": "/static/css/main.0e34f3ca.css.map",
+    "main.e34f795a.js.map": "/static/js/main.e34f795a.js.map",
+    "787.3242bcea.chunk.js.map": "/static/js/787.3242bcea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e34f3ca.css",
-    "static/js/main.5aad30da.js"
+    "static/js/main.e34f795a.js"
   ]
 }
